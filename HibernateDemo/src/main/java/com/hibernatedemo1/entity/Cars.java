@@ -6,10 +6,6 @@ public class Cars {
 	private double carPrice;
 	private String carColor;
 	
-	
-	
-	
-	
 	public Cars(String carName, double carPrice, String carColor) {
 		super();
 		this.carName = carName;
